@@ -1,0 +1,7 @@
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\obj\Debug\TextAdventureFinal.csprojAssemblyReference.cache
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\obj\Debug\TextAdventureFinal.csproj.CoreCompileInputs.cache
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\bin\Debug\TextAdventureFinal.exe.config
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\bin\Debug\TextAdventureFinal.exe
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\bin\Debug\TextAdventureFinal.pdb
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\obj\Debug\TextAdventureFinal.exe
+c:\users\cawit\source\repos\TextAdventureFinal\TextAdventureFinal\obj\Debug\TextAdventureFinal.pdb
